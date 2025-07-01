@@ -1,0 +1,6 @@
+fastcore
+python-fasthtml
+uvicorn
+python-dotenv
+pillow
+huggingface_hub
